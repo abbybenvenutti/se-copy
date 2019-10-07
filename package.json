@@ -2,7 +2,7 @@
   "name": "senior-enrichment",
   "version": "0.0.1",
   "description": "A review time project",
-  "main": "index.js",
+  "main": "main.js",
   "engines": {
     "node": ">= 7.0.0"
   },
